@@ -1,0 +1,5 @@
+LIBRARY btk
+EXPORTS
+    btk_beamforming_init
+    btk_beamforming_process
+    btk_beamforming_set_location
